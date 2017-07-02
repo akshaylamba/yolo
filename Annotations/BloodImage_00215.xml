@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <folder>Original_Images</folder>
+  <filename>BloodImage_00215</filename>
+  <path>/Users/cosmic/wbc-classification/Original_Images/BloodImage_00215.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Eosinophil</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>67</xmin>
+      <ymin>259</ymin>
+      <xmax>281</xmax>
+      <ymax>468</ymax>
+    </bndbox>
+  </object>
+</annotation>

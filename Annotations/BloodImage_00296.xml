@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Original_Images</folder>
+  <filename>BloodImage_00296</filename>
+  <path>/Users/cosmic/wbc-classification/Original_Images/BloodImage_00296.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Neutrophil</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>192</xmin>
+      <ymin>15</ymin>
+      <xmax>401</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+</annotation>
